@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    container_name: waproject-web-rodrigo
+    build: docker/prod
+    ports:
+      - '3000:3000'
+      - '35729:35729'
+    volumes:
+      - .:/src

@@ -1,0 +1,11 @@
+{
+  "project": "teste-rodrigo",
+  "repository": "repositorio_var",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/teste-rodrigo",
+  "dockerCredentials": "rodrigoalves86",
+  "sentryDsn": "https://890e962668804e4a9da124e0baa9265a@sentry.io/1855766",
+  "confirmed": true,
+  "slug": "teste-web-rodrigo"
+}
